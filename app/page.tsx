@@ -43,8 +43,8 @@ export default function Home() {
         <Image
           src="/logo_serendipityglobal.png"
           alt="Serendipity Global Logo"
-          width={580}
-          height={580}
+          width={340}
+          height={340}
           className="mb-4"
           priority
         />
